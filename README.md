@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexni09
-- 👀 I’m a Senior Developer, a Computer Engineer with a Master Degree.
+- 👀 I’m a Fullstack Senior Developer, a Computer Engineer with a Master Degree.
 - 🌱 My interests include Laravel, PHP, Vue, Javascript and more.
 - 💞️ I’m available for hiring and I'm looking to be a part of a development team on a big project.
 - 📫 You can reach me at nigri@hotmail.com.
